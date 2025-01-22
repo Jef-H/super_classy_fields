@@ -1,4 +1,4 @@
-# supervised_fields
+# supervised_fields Classification
 
 alright this project is to get a model to say field or not a field. 
 field most likely corn/soy/alfalfa datasets brought from esri layer at usgs 
